@@ -4,11 +4,11 @@
 # @username
 # t.me/username
 # https://telegram.dog/username
-GROUP_DESTINATION = "group_username"
+GROUP_DESTINATION = "@cpm1giveawayhuby"
 
 # Target groups: specify the groups from which to retrieve members
 GROUP_TARGETS = [
-    "group_target_username_1",
+    "@TnnrCPM",
     "group_target_username_2",
 ]
 
